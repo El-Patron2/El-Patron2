@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**El-Patron2/El-Patron2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Emmanuel Melchizedek Vunnava! 👋
+<p align="center"> <img src="https://img.shields.io/badge/Location-Delray%20Beach%2C%20FL-blue?style=for-the-badge&logo=google-maps" alt="Location"> <a href="mailto:emmanuelmelchizedekvunnava@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"></a> <a href="tel:+15618874755"><img src="https://img.shields.io/badge/Phone-%2B1%20561%20887%204755-green?style=for-the-badge&logo=whatsapp" alt="Phone"></a> <a href="https://emmanuel-v.onrender.com"><img src="https://img.shields.io/badge/Website-Visit%20Me-orange?style=for-the-badge&logo=google-chrome" alt="Website"></a> </p>
+🎓 Education
+<table> <tr> <td><img src="https://img.shields.io/badge/Florida%20Atlantic%20University-MS%20in%20Computer%20Science-blue?style=for-the-badge&logo=graduation-cap" alt="FAU"></td> <td><img src="https://img.shields.io/badge/GPA-4.0%2F4.0-success?style=for-the-badge" alt="GPA"></td> </tr> <tr> <td><img src="https://img.shields.io/badge/MLR%20Institute%20of%20Technology-B.Tech%20in%20Computer%20Science-blue?style=for-the-badge&logo=graduation-cap" alt="MLRIT"></td> <td><img src="https://img.shields.io/badge/GPA-3.0%2F4.0-success?style=for-the-badge" alt="GPA"></td> </tr> </table>
+💻 Skills
+<p align="center"> <img src="https://img.shields.io/badge/Python-★★★★☆-yellow?style=for-the-badge&logo=python" alt="Python"> <img src="https://img.shields.io/badge/C++-★★★★☆-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"> <img src="https://img.shields.io/badge/Java-★★★☆☆-orange?style=for-the-badge&logo=java" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-★★★★☆-blue?style=for-the-badge&logo=mysql" alt="SQL"> <img src="https://img.shields.io/badge/HTML%2FCSS-★★★★☆-orange?style=for-the-badge&logo=html5" alt="HTML/CSS"> </p>
+🛠 Technologies
+<p align="center"> <img src="https://img.shields.io/badge/AWS-★★★☆☆-yellow?style=for-the-badge&logo=amazon-aws" alt="AWS"> <img src="https://img.shields.io/badge/Google%20Cloud-★★★☆☆-blue?style=for-the-badge&logo=google-cloud" alt="Google Cloud"> <img src="https://img.shields.io/badge/Git-★★★★☆-orange?style=for-the-badge&logo=git" alt="Git"> <img src="https://img.shields.io/badge/Power%20BI-★★★☆☆-yellow?style=for-the-badge&logo=power-bi" alt="Power BI"> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="GitHub Streak"> </p>
+🌟 Fun Fact
+<p align="center"> <img src="https://img.shields.io/badge/Nickname-El%20Patron2-purple?style=for-the-badge" alt="Nickname"> </p> <p align="center"> <em>Did you know? I'm passionate about solving interesting problems in rapidly changing environments! 🚀</em> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen" alt="Profile Views"> </p>
